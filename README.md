@@ -4,7 +4,7 @@ Neural machine translation is a recently proposed approach to machine translatio
 
 ## Usage
 
-Open the above [nnfl_termproject.ipynb](https://github.com/aditya-vaish5/NNFLProject/blob/master/nnfl_termproject.ipynb) in google colab to view the script and run it accordingly.
+Open the above [nnfl_termproject_final.ipynb](https://github.com/aditya-vaish5/NNFLProject/blob/master/nnfl_termproject_final.ipynb) in google colab to view the script and run it accordingly.
 
 ## Contributors
 The Project was contributed by Ronak Bhattad , Aditya Vaish , Manthan Atulbhai Mehta
